@@ -23,7 +23,5 @@ Hello! I am a passionate web developer specializing in building interactive and 
 ---
 
 ## 📫 Contact
+[Contacts](contact.markdown)
 
-- **Email**: neekum73@gmail.com
-- **LinkedIn**: [linkedin.com/in/neerajkumar](https://linkedin.com/in/neerajkumar)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
