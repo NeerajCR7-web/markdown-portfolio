@@ -17,7 +17,10 @@ Hello! I am a passionate web developer specializing in building interactive and 
 
 ---
 
+## 🌐 Projects
 [Projects](projects.markdown)
+
+---
 
 ## 📫 Contact
 
