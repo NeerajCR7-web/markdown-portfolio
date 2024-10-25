@@ -13,7 +13,11 @@ Hello! I am a passionate web developer specializing in building interactive and 
 ---
 ## 📚 Education
 **Post Graduation in Web Development**  
-[humber Polytechnic], 2025
+**Humber Polytechnic**, 2025
+
+**Bachelors in Electronics and Communication**  
+**SVIT VASAD**, 2022
+
 
 ---
 
