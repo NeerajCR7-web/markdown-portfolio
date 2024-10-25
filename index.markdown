@@ -12,11 +12,13 @@ Hello! I am a passionate web developer specializing in building interactive and 
 
 ---
 ## 📚 Education
-
 **Post Graduation in Web Development**  
 [humber Polytechnic], 2025
 
 ---
+
+[Projects](projects.markdown)
+
 ## 📫 Contact
 
 - **Email**: neekum73@gmail.com
